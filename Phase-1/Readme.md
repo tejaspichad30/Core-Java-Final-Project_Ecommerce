@@ -46,6 +46,7 @@ This is **Phase 1** of the **Inventory Management System**, a simple Java-based 
 ![image](https://github.com/user-attachments/assets/8d10d689-b79d-415c-96e3-53c8b9868dff)
 
 Console output of Inventory Management System (Phase 1), showing the process of adding a product ("Bike - KTM") with quantity and price, followed by viewing the product list.
+
 ![image](https://github.com/user-attachments/assets/be5df36d-22ed-4831-b1e6-734cc8f1dd58)
 
 
