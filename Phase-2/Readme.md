@@ -14,7 +14,7 @@ This repository contains **Phase 2** of the **E-Commerce Inventory Management Sy
 
 ---
 
-## **Technologies Used**  
+## **Core Java Concept Used**  
 - **Java** (Core Java, OOP)  
 - **ArrayList** (for dynamic inventory management)  
 - **Scanner Class** (for user input)  
