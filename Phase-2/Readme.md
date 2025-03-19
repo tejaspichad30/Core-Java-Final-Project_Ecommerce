@@ -67,26 +67,7 @@ git clone https://github.com/your-username/E-Commerce-Inventory-Phase2.git
 ## **Sample Console Output**  
 
 ```
-=== Inventory Management System (OOP) ===
-1. Add Product
-2. View Products
-3. Update Product
-4. Delete Product
-5. Total Inventory Value
-6. Exit
-Enter choice: 1
-
-Enter product name: Laptop
-Enter category: Electronics
-Enter quantity: 10
-Enter price: 55000
-
-Product added successfully!
-
-Enter choice: 2
-ID | Name    | Category     | Quantity | Price
-1  | Laptop  | Electronics | 10       | 55000.00
-```
+![image](https://github.com/user-attachments/assets/6dac4e24-f066-496f-9f69-b8f4d0d901f9)
 
 ---
 
