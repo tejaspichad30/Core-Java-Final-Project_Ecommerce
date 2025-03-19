@@ -11,7 +11,7 @@ This is Phase 1 of the Inventory Management System, a simple Java-based console 
 - 💰 *Total Inventory Value* - Calculate total inventory worth.  
 - 🔄 *User-Friendly Menu* - Loop-based menu for easy interaction.
 
-## 🛠 **Technologies Used**
+## 🛠 **Core Java Concept Used**
 - **Java** (Core Java concepts like arrays, loops, and input handling)
 - **Scanner** for user input
 - **Console-based UI** for simplicity
