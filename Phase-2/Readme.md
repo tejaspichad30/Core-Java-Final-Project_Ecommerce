@@ -66,10 +66,8 @@ git clone https://github.com/your-username/E-Commerce-Inventory-Phase2.git
 
 ## **Sample Console Output**  
 
-```
 ![image](https://github.com/user-attachments/assets/6dac4e24-f066-496f-9f69-b8f4d0d901f9)
 
----
 
 ## **Future Enhancements (Phase 3)**  
 🔹 Implement **Database Integration** using **JDBC**  
