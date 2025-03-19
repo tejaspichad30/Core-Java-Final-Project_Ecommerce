@@ -76,5 +76,3 @@ git clone https://github.com/your-username/E-Commerce-Inventory-Phase2.git
 
 ---
 
-
-🚀 **Happy Coding!** 🚀
