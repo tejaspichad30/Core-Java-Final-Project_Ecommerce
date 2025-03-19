@@ -57,10 +57,8 @@ Console output of Inventory Management System (Phase 1), showing the process of 
 ✅ Phase 4 - JDBC Integration with MySQL  
 ✅ Phase 5 - GUI Implementation using Java Swing  
 
-📜 License
-This project is licensed under the MIT License.
+
 
 ---
 
-Replace `"your-username"` in the GitHub link with your actual username. Let me know if you need modifications! 🚀
 
